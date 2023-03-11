@@ -1,0 +1,22 @@
+{
+    "name": "react-native-alltrack",
+    "description": "Alltrack React Native SDK",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Alltrack",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "ios",
+        "android",
+        "alltrack"
+    ],
+    "homepage": "https://github.com/alltrack/react_native_sdk",
+    "bugs": {
+        "url": "https://github.com/alltrack/react_native_sdk/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alltrack/react_native_sdk.git"
+    }
+}

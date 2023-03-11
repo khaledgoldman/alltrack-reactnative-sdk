@@ -1,0 +1,11 @@
+[submodule "ext/android/sdk"]
+	path = ext/android/sdk
+	url = https://github.com/alltrack/android_sdk.git
+	branch = master
+[submodule "ext/ios/sdk"]
+	path = ext/ios/sdk
+	url = https://github.com/alltrack/ios_sdk.git
+	branch = master
+[submodule "ext/scripts"]
+	path = ext/scripts
+	url = https://github.com/alltrack/sdk_scripts.git
